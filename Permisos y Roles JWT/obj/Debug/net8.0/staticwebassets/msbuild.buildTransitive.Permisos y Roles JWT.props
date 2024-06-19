@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Permisos y Roles JWT.props" />
+</Project>

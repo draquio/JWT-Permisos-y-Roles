@@ -1,0 +1,40 @@
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\appsettings.Development.json
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\appsettings.json
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Permisos y Roles JWT.exe
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Permisos y Roles JWT.deps.json
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Permisos y Roles JWT.runtimeconfig.json
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Permisos y Roles JWT.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Permisos y Roles JWT.pdb
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\Permisos y Roles JWT.csproj.AssemblyReference.cache
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\Permisos y Roles JWT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\Permisos y Roles JWT.AssemblyInfoInputs.cache
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\Permisos y Roles JWT.AssemblyInfo.cs
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\Permisos y Roles JWT.csproj.CoreCompileInputs.cache
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\Permisos y Roles JWT.MvcApplicationPartsAssemblyInfo.cs
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\Permisos y Roles JWT.MvcApplicationPartsAssemblyInfo.cache
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\staticwebassets.build.json
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\staticwebassets.development.json
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\staticwebassets\msbuild.Permisos y Roles JWT.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\staticwebassets\msbuild.build.Permisos y Roles JWT.props
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Permisos y Roles JWT.props
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Permisos y Roles JWT.props
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\scopedcss\bundle\Permisos y Roles JWT.styles.css
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\Permisos.49813055.Up2Date
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\Permisos y Roles JWT.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\refint\Permisos y Roles JWT.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\Permisos y Roles JWT.pdb
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\Permisos y Roles JWT.genruntimeconfig.cache
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\obj\Debug\net8.0\ref\Permisos y Roles JWT.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Net\Permisos y Roles JWT\Permisos y Roles JWT\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
